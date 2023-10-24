@@ -24,3 +24,5 @@ Os algoritmos apresentados são fundamentais para a compreensão de conceitos b�
 
 Esperamos que estes exercícios proporcionem uma compreensão sólida dos conceitos básicos e sirvam como um ponto de partida para aventuras mais avançadas na programação.
 
+# EM MANUTENÇÃO
+
